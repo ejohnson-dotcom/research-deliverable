@@ -1,0 +1,16 @@
+# Dependencies
+frontend/node_modules/
+backend/node_modules/
+
+# Environment secrets
+.env
+.env.*
+frontend/.env
+frontend/.env.*
+backend/.env
+backend/.env.*
+
+# Expo files
+frontend/.expo/
+frontend/dist/
+backend/dist/
